@@ -1,13 +1,13 @@
 #!/bin/bash
 #
-# setup-ec2-ubuntu.sh - Script de Configuração para EC2 (Ubuntu Server 24.04 LTS) 
+# setup-ec2-ubuntu.sh - Script de Configuração para EC2 (Ubuntu Server 24.04 LTS)
 #
-# - Autor....................: Hugllas RS Lima 
+# - Autor....................: Hugllas RS Lima
 # - Data.....................: 2025-08-12
 # - Versão...................: 1.0.0
 #
 # Etapas:
-#    - $ ./ansible_config_host.sh
+#    - $ ./setup-ec2-ubuntu.sh
 #        - {Função para exibir cabeçalho}
 #        - {Testando a conexão com a Internet}
 #        - {Renomear a instância}
@@ -22,13 +22,13 @@
 #        - {Função main}
 #
 # Histórico:
-#    - v1.0.0 2025-08-12, Hugllas Lima
+#    - v1.0.0 2025-08-12, Hugllas RS Lima
 #        - Cabeçalho
-#        - Discrição
+#        - Descrição
 #        - Funções
 #
 # Uso:
-#   - sudo ./setup-ec2-ubuntu.sh 
+#   - sudo ./setup-ec2-ubuntu.sh
 #
 # Licença: GPL-3.0
 #
